@@ -1,0 +1,11 @@
+framework module WXNSDK2 {
+  umbrella header "WXNSDK2.h"
+
+  export *
+  module * { export * }
+}
+
+module WXNSDK2.Swift {
+    header "WXNSDK2-Swift.h"
+    requires objc
+}
