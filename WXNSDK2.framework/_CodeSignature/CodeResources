@@ -104,6 +104,10 @@
 		<data>
 		N3gIclHNvE03sopWn6/CpYXz3aI=
 		</data>
+		<key>SZ_qrcode_adress.png</key>
+		<data>
+		cLhr1wTsjI7vc2zrueUM9l6H2bM=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -369,6 +373,17 @@
 			<key>hash2</key>
 			<data>
 			mLgOhrPMJHKAcU5q57NOzhHMgcv9JvFhtBdgaJdLxPk=
+			</data>
+		</dict>
+		<key>SZ_qrcode_adress.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cLhr1wTsjI7vc2zrueUM9l6H2bM=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZAmiJK1YLVi+toy5bn4JBh61lgTPhGauDGlwUeASPLA=
 			</data>
 		</dict>
 	</dict>
